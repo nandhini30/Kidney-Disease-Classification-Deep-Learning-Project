@@ -5,4 +5,4 @@ INCLUDE_TOP: False # not included FC layers
 EPOCHS: 1   # for testing
 CLASSES: 2   # normal, tumor
 WEIGHTS: imagenet
-LEARNING_RATE: 0.01
+LEARNING_RATE: 0.001
