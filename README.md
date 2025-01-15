@@ -8,8 +8,8 @@ This project focuses on kidney disease classification using deep learning techni
 ### Step 1: Clone the Repository
 Clone the project repository to your local machine using the following command:
 ```bash
-git clone https://github.com/krishnaik06/Kidney-Disease-Classification-Deep-Learning-Project
-cd Kidney-Disease-Classification-Deep-Learning-Project
+git clone https://github.com/nandhini30/Kidney-Disease-Classification-Deep-Learning-Project.git
+cd  Kidney-Disease-Classification-MLFlow-Project
 ```
 
 ### Step 2: Create a Conda Environment
